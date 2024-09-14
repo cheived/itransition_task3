@@ -11,6 +11,11 @@
   "description": "",
   "devDependencies": {
     "@types/node": "^22.5.4",
+    "@types/readline-sync": "^1.4.8",
     "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "readline-sync": "^1.4.10"
   }
 }
